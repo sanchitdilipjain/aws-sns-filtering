@@ -1,4 +1,1 @@
 theme: jekyll-theme-cayman
-
-- name: Publish to dev.to
-  uses: sinedied/publish-devto@v1
